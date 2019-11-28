@@ -33,6 +33,5 @@ public class Wilder {
 		String isAware = this.isAware() == true? "suis" : "ne suis pas" ;
 		return "Je m'appelle " + this.firstname + " et je " + isAware + " aware." ;
 	}
-
 }
 
